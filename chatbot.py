@@ -5,7 +5,7 @@ def chatbot():
 
     while True:
 
-        user = input("You: ").lower()
+        user = input("hello: ").lower()
 
         if user == "hello":
             print("Bot: Hi! 👋")
