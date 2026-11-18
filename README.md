@@ -27,4 +27,4 @@ This is a simple rule-based chatbot developed using Python as part of the CodeAl
 
 ## Author
 
-Anuj kumar
+Vivak sharama 
